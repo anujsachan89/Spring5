@@ -16,13 +16,6 @@ private int freePaases;
 @Size(min=5,message="is Required Bro !")
 private String lastName;
 
-
-
-
-
-
-
-
 public int getFreePaases() {
 	return freePaases;
 }
